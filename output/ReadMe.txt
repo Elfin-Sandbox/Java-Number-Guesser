@@ -1,6 +1,6 @@
-Before running, kindly install Java SE Development Kit 17.0.11 (~150 MB):
+Before running, kindly install JDK Development Kit 22.0.2 (~160 MB):
 
-https://download.oracle.com/java/17/archive/jdk-17.0.11_windows-x64_bin.exe
+https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe
 
 
 
